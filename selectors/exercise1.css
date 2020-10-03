@@ -1,0 +1,13 @@
+body {
+    background-color: #f0f8ff;
+}
+div{
+    width: 75%;
+    min-width: 500px;
+    margin: 1em;
+    padding: 0.5em;
+    background-color: white;
+}
+#a,#c {
+    border: 1px solid #333333;
+}
